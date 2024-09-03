@@ -1,2 +1,4 @@
-package com.concurrecnycollectionslab.concurrencylab.config;public class ThreadPoolConfig {
+package com.concurrecnycollectionslab.concurrencylab.config;
+
+public class ThreadPoolConfig {
 }
